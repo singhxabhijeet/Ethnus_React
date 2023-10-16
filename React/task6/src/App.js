@@ -2,9 +2,9 @@ import React from "react";
 
 const App = () => {
   const portfolioData = {
-    name: "Krishna Garg",
-    reg: "21BCE11040",
-    place: "Muzaffarnagar , UP | India",
+    name: "Abhijeet Singh",
+    reg: "21BCE10593",
+    place: "Noida , UP | India",
     skills: [
       "Competitive Programmer",
       "Proficient in C++",
@@ -48,7 +48,7 @@ const App = () => {
               <u>Description about me:</u>
             </h3>
             <p>
-              Hey! I am Krishna, 20 Years of age and currently pursuing my
+              Hey! I am Abhijeet, 21 Years of age and currently pursuing my
               B.Tech Degree from VIT Bhopal in CSE-Core. I have been since the
               beginning of my time here on earth, fascinated by these machines
               <br />
